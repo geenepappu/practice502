@@ -26,7 +26,9 @@ class practice1
 
 	public void mul()
 	{
-		//swetha
+		c=a*b;
+		System.out.println(c);
+
 
 	}
 
